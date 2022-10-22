@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bobpooky
+- 👋 Hi, I’m @EdChampeaux
 - 👀 I’m interested in a lot of things!!!
 - 🌱 I’m currently learning javascript, HTML and CSS
 - 💞️ I’m looking to collaborate on new projet to developp my recent aquired skills
